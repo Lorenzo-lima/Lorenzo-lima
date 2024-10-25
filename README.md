@@ -1,7 +1,7 @@
 ## Hi! I'm Lorenzo Gonçalves 🖐️
 
 ### Passionate about technologies, games and music.
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVtNjNwcWpmcng3OXcwN2x6NnpicDVkZWhqbnNyanlvbGw2ZHdmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.webp" height="600"></img>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVtNjNwcWpmcng3OXcwN2x6NnpicDVkZWhqbnNyanlvbGw2ZHdmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.webp" width="100%"></img>
 <br> 
 
 ### <strong>Technologies</strong> ⚡
