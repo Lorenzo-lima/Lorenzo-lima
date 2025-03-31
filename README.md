@@ -9,12 +9,15 @@
 
 <div>
     <img align="center" alt=html5 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt=html5 src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-    <img align="center" alt=html5 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <br></br>
+    <img align="center" alt=html5 src="https://img.shields.io/badge/Typescript-337aff?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt=html5 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt=html5 src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge">
+    <img align="center" alt=html5 src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"><br></br>
     <img align="center" alt=html5 src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img align="center" alt=html5 src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img align="center" alt=html5 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt=html5 src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img align="center" alt=html5 src="https://img.shields.io/badge/Nest%20js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img align="center" alt=html5 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 <br>
