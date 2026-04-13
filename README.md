@@ -19,7 +19,7 @@
     <img align="center" alt=html5 src="https://img.shields.io/badge/Nest%20js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white">
     <img align="center" alt=html5 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt=html5 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img align="center" alt=html5 src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img align="center" alt=html5 src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><br></br>
     <img align="center" alt=html5 src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
     <img align="center" alt=html5 src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
     <img align="center" alt=html5 src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
